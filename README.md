@@ -3,8 +3,6 @@
 A modern, smooth, and mobile-friendly version of the 2048 game built using **React + Vite** with professional animations, swipe support, dark mode, and score tracking.
 
 
-![Game Screenshot](./screenshot.png)
-
 
 ## 🚀 Features
 
@@ -22,8 +20,8 @@ A modern, smooth, and mobile-friendly version of the 2048 game built using **Rea
 
 ## 📸 Screenshot
 
-> Make sure you place `screenshot.png` in the root folder (same as `README.md`)  
-> You can take a screenshot using `Windows + Shift + S` and save it using Paint.
+![Game Screenshot](./screenshot.png)
+
 
 ---
 
@@ -37,10 +35,4 @@ A modern, smooth, and mobile-friendly version of the 2048 game built using **Rea
 
 ---
 
-## 🛠️ Getting Started
 
-### Clone the repository:
-
-```bash
-git clone https://github.com/Brainstorm-collab/2048-react-game.git
-cd 2048-react-game
